@@ -1,3 +1,9 @@
+# Hannel's Bootstrap 5 Class Project Assignment
+
+This project was started on March 5, 2024
+
+
+
 # ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
